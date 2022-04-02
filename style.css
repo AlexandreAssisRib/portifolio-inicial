@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+ ;
+   
+}
+
+body {
+    background-color:blanchedalmond ;
+}
+
+.imagem {
+    position: absolute;
+    right: 20px;
+   
+    
+}
+
+img {
+    border-radius: 30px 0 30px;
+}
+
+.titulo {
+    position: absolute;
+    font-size: xx-large;
+    left: 50px;
+    top:50px;
+    font-family: 'san-serif';
+    
+}
+
+.texto {
+    position: absolute;
+    width: 1100px;
+    top: 200px;
+    left: 50px;
+    font-family:serif;
+}
+
+.header {
+    height: 300px;
+}
+
+.indice h4 {
+    text-align: center;
+    right: 100px;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 25px;
+  background-color: azure;
+}
+
+.indice-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    font-size: 20px;
+    display: inline-flex;
+    margin-left: 40px;
+
+}
+.indice-text:hover {
+    border: 2px solid black;
+}
+
+.hard h4 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+        background-color: azure;
+   
+   
+    
+}
+
+ol {
+    margin: 5px;
+}
+ul {
+    margin-left: 40px;
+    font-size: 30px;
+}
+.cype {
+    font-size: 50px;
+}
+
+.autocad {
+    font-size: 40px;
+}
+
+.sketch {
+    font-size: 30px;
+}
+
+.excel {
+    font-size: 20px;
+}
